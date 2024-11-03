@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on alumnexus<br>👯 I’m looking to collaborate <br>🌱 I’m currently learning solidity and DjangoREST<br>💬 feel free to ask me about anything<br>
+🔭 I’m currently working on rentquest <br>👯 I’m looking to collaborate <br>🌱 I’m currently learning solidity and DjangoREST<br>💬 feel free to ask me about anything<br>
 
 
 # 💻 Tech Stack:
