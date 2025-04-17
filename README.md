@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshankhanxox" alt="roshankhanxox" /></a> </p>
 
-- 🔭 I’m currently working on [Nft-marketplace](https://github.com/roshankhanxox/nft_marketplace.git)
+- 🔭 I’m currently working on [Wizard's Gambit]
 
 - 🌱 I’m currently learning **cryptography through Coursera, rust, solidity, DeFi protocols and tokenomics, and blockchain tools like Hardhat and Ethers.js.**
 
